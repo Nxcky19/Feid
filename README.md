@@ -1,5 +1,5 @@
 
-Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky. 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +61,7 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
         <div class="item">
             <div class="music-player">
                 <h2>X19X</h2>
-        
+          <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56dHJTQQ8lMGgBegxfYVDM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
              
             </div>
@@ -69,40 +69,47 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
         <div class="item">
             <div class="music-player">
                 <h2>MOR</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3js3vnaiDDghVu9ADH93Q5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>DUCATI</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/444LqH6QlvR62nY8Vxn37u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>LCLM</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4hUQ4FB9GD5oDmw3XHIr0G?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>SHIBUYA</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0kI46dzlikgAVpJ6LdkbJE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>FERXXO PA</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7pijRxgRaBirPz6wDaJIp9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>THE LIGHT MOR</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/16ScBmKm5WA3RwvTqiQlJd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
         <div class="item">
             <div class="music-player">
                 <h2>A VERY GOOD END</h2>
+                  <FONT COLOR="white">
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0lgs2Sa82lyX89nBUWyUy6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
