@@ -1,6 +1,5 @@
 
 Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky. 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
