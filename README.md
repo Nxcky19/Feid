@@ -60,8 +60,8 @@
     <div class="carousel">
         <div class="item">
             <div class="music-player">
-                <h2>X19X</h2>
-          <FONT COLOR="white">
+              
+          <FONT COLOR="white"> <h2>X19X</h2></FONT>
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56dHJTQQ8lMGgBegxfYVDM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
              
             </div>
